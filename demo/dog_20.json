@@ -1,0 +1,102 @@
+[
+    {
+        "name_cn": "拉布拉多犬",
+        "name_en": "Labrador Retriever",
+        "description_cn": "友善、聪明且适合家庭饲养的狗品种。"
+    },
+    {
+        "name_cn": "德国牧羊犬",
+        "name_en": "German Shepherd",
+        "description_cn": "忠诚、工作能力强，常用于警犬和军犬。"
+    },
+    {
+        "name_cn": "金毛猎犬",
+        "name_en": "Golden Retriever",
+        "description_cn": "聪明、温和且乐于助人的家庭宠物。"
+    },
+    {
+        "name_cn": "贵宾犬",
+        "name_en": "Poodle",
+        "description_cn": "活泼聪明且对人友好的狗品种，常见于宠物家庭。"
+    },
+    {
+        "name_cn": "哈士奇",
+        "name_en": "Siberian Husky",
+        "description_cn": "外形帅气、活泼好动，适合有经验的饲养者。"
+    },
+    {
+        "name_cn": "法国斗牛犬",
+        "name_en": "French Bulldog",
+        "description_cn": "体型小巧、性格友善且适合公寓饲养。"
+    },
+    {
+        "name_cn": "比格犬",
+        "name_en": "Beagle",
+        "description_cn": "活泼开朗、嗅觉灵敏，适合喜欢户外活动的家庭。"
+    },
+    {
+        "name_cn": "博美犬",
+        "name_en": "Pomeranian",
+        "description_cn": "小巧可爱、性格活泼，适合作为伴侣犬。"
+    },
+    {
+        "name_cn": "柴犬",
+        "name_en": "Shiba Inu",
+        "description_cn": "性格独立、忠诚且对主人十分亲近。"
+    },
+    {
+        "name_cn": "斗牛梗",
+        "name_en": "Bull Terrier",
+        "description_cn": "肌肉发达、性格温和且富有活力。"
+    },
+    {
+        "name_cn": "杜宾犬",
+        "name_en": "Doberman Pinscher",
+        "description_cn": "敏捷、聪明且具有强烈的保护欲。"
+    },
+    {
+        "name_cn": "柯基犬",
+        "name_en": "Corgi",
+        "description_cn": "体型小巧、性格活泼，深受家庭喜爱。"
+    },
+    {
+        "name_cn": "罗威纳犬",
+        "name_en": "Rottweiler",
+        "description_cn": "力量强大、性格自信，是优秀的守卫犬。"
+    },
+    {
+        "name_cn": "萨摩耶",
+        "name_en": "Samoyed",
+        "description_cn": "白色毛发、温顺友好，被称为微笑天使。"
+    },
+    {
+        "name_cn": "大丹犬",
+        "name_en": "Great Dane",
+        "description_cn": "体型高大、性格温顺，是温柔的巨人。"
+    },
+    {
+        "name_cn": "西高地白梗",
+        "name_en": "West Highland White Terrier",
+        "description_cn": "活泼友好、小巧可爱的白色梗犬。"
+    },
+    {
+        "name_cn": "秋田犬",
+        "name_en": "Akita",
+        "description_cn": "忠诚勇敢、性格独立，是日本的国犬。"
+    },
+    {
+        "name_cn": "大麦町犬",
+        "name_en": "Dalmatian",
+        "description_cn": "独特的斑点花纹，性格活泼且善于奔跑。"
+    },
+    {
+        "name_cn": "雪纳瑞",
+        "name_en": "Schnauzer",
+        "description_cn": "机警聪明、适合家庭饲养的多功能犬。"
+    },
+    {
+        "name_cn": "约克夏梗",
+        "name_en": "Yorkshire Terrier",
+        "description_cn": "体型小巧、毛发柔顺，是受欢迎的玩赏犬。"
+    }
+]
