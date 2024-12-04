@@ -1,0 +1,82 @@
+[
+  {
+    "name_chinese": "拉布拉多犬",
+    "description": "性格温和、聪明，是一种非常受欢迎的家庭犬。",
+    "origin": {
+      "country": "加拿大",
+      "region": "纽芬兰"
+    }
+  },
+  {
+    "name_chinese": "金毛寻回犬",
+    "description": "友善且容易训练，常被用作导盲犬和救援犬。",
+    "origin": {
+      "country": "苏格兰",
+      "region": "高地"
+    }
+  },
+  {
+    "name_chinese": "德牧犬",
+    "description": "聪明且忠诚，常用于警犬和工作犬。",
+    "origin": {
+      "country": "德国",
+      "region": "全国"
+    }
+  },
+  {
+    "name_chinese": "贵宾犬",
+    "description": "活泼且聪明，有三种体型：标准型、迷你型和玩具型。",
+    "origin": {
+      "country": "德国",
+      "region": "法国也有影响"
+    }
+  },
+  {
+    "name_chinese": "哈士奇",
+    "description": "性格友善、外形独特，因酷似狼而受欢迎。",
+    "origin": {
+      "country": "俄罗斯",
+      "region": "西伯利亚"
+    }
+  },
+  {
+    "name_chinese": "柴犬",
+    "description": "体型小巧且独立，是日本的传统犬种。",
+    "origin": {
+      "country": "日本",
+      "region": "全国"
+    }
+  },
+  {
+    "name_chinese": "边境牧羊犬",
+    "description": "极其聪明，工作能力强，常被用作牧羊犬。",
+    "origin": {
+      "country": "英国",
+      "region": "苏格兰/威尔士边境"
+    }
+  },
+  {
+    "name_chinese": "萨摩耶",
+    "description": "温顺且友好，外形以纯白毛发著称。",
+    "origin": {
+      "country": "俄罗斯",
+      "region": "西伯利亚"
+    }
+  },
+  {
+    "name_chinese": "秋田犬",
+    "description": "忠诚且勇敢，以日本“忠犬八公”闻名。",
+    "origin": {
+      "country": "日本",
+      "region": "秋田县"
+    }
+  },
+  {
+    "name_chinese": "约克夏梗",
+    "description": "体型小巧，性格活泼，是受欢迎的伴侣犬。",
+    "origin": {
+      "country": "英国",
+      "region": "约克郡"
+    }
+  }
+]
