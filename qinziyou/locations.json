@@ -3,7 +3,7 @@
     "msg": "success",
     "data": [
         {
-            "typeId": "kdnp2026",
+            "type": "kdnp2026",
             "name": "长沙蝌蚪亲子年票",
             "shortName": "年票",
             "list": [
@@ -218,7 +218,7 @@
             ]
         },
         {
-            "typeId": "kdhk2026",
+            "type": "kdhk2026",
             "name": "长沙蝌蚪亲子嗨卡",
             "shortName": "嗨卡",
             "list": [
@@ -226,7 +226,7 @@
             ]
         },
         {
-            "typeId": "ddnp2026",
+            "type": "ddnp2026",
             "name": "长沙豆豆年票",
             "shortName": "豆豆",
             "list": [
@@ -234,7 +234,7 @@
             ]
         },
         {
-            "typeId": "xhlnp2026",
+            "type": "xhlnp2026",
             "name": "长沙小狐狸年票",
             "shortName": "小狐狸",
             "list": [
