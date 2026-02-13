@@ -25,6 +25,12 @@
 			"name": "长沙小狐狸年票",
 			"shortName": "小狐狸",
 			"list": [{"locationId":"xhl2026001","name":"小狐狸营地","latitude":28.068894,"longitude":112.925014,"note":"欢乐巴溪洲","url":"http://dpurl.cn/aSHkToAz"}]
+		},
+		{
+			"type": "wdlly2026",
+			"name": "免费无动力乐园",
+			"shortName": "免费",
+			"list": [{"locationId":"wdl2026001","name":"星悦湖公园","latitude":28.293267,"longitude":112.931623,"note":"导航到湘江玥售楼处，由地面停车场，附近很多地段在修路。","url":"http://dpurl.cn/oDsjUhqz"},{"locationId":"wdl2026002","name":"大泽湖湿地公园","latitude":28.317693,"longitude":112.904742,"note":"面积很大，儿童游乐场好几个区域可以游玩，每个区域的主题不一样","url":"http://dpurl.cn/3NngSk5z"},{"locationId":"wdl2026003","name":"梅溪湖节庆岛","latitude":28.194178,"longitude":112.909362,"note":"在湖中间，儿童游乐场不是特别大，周末人比较多。","url":"http://dpurl.cn/nmsn0cjz"},{"locationId":"wdl2026004","name":"招商花园城天空乐园","latitude":28.241951,"longitude":112.940543,"note":"观沙岭招商花园城商城顶楼，玩累了直接在楼下找家饭店吃饭很方便，2月3日之后需要够票了，39荟豆一大一小","url":"http://dpurl.cn/fTIrXhQz"},{"locationId":"wdl2026005","name":"喵喵冒险谷","latitude":28.109527,"longitude":112.903862,"note":"停车免费！面积超大。不过由于没有什么人维护，目前来看设备都还挺脏的。","url":"http://dpurl.cn/SzsVutkz"},{"locationId":"wdl2026006","name":"航空航天主题公园","latitude":28.209289,"longitude":113.188456,"note":"属于主题乐园了，离市中心有点距离快到机场了","url":"http://dpurl.cn/gczbsMHz"},{"locationId":"wdl2026007","name":"荟聚乐芙小镇","latitude":28.117727,"longitude":112.93778,"note":"在荟聚顶楼，比较小的一个露天游乐场","url":"http://dpurl.cn/JUHn5KRz"},{"locationId":"wdl2026008","name":"大悦城彩虹部落","latitude":28.236963,"longitude":112.978086,"note":"在大悦城五楼，楼下是三馆一厅，从覔书店内坐手扶电梯出门就是啦！","url":"http://dpurl.cn/krH3atuz"},{"locationId":"wdl2026009","name":"溪悦荟儿童乐园","latitude":28.145475,"longitude":113.030425,"note":"就在圭塘河的边上，可以带上露营设备有草地，平常周末人也不是特别多。","url":"http://dpurl.cn/DmMLm4Hz"},{"locationId":"wdl2026010","name":"飞碟游乐场","latitude":28.18968,"longitude":113.063511,"note":"导航“旺德府万象时代”，算在一个小区里面，远离市区，旁边有隆水稻到文化园","url":""},{"locationId":"wdl2026011","name":"狮王乐园","latitude":28.209715,"longitude":112.84555,"note":"也是小区阳光城 溪山悦建的游乐场","url":""},{"locationId":"wdl2026012","name":"风车乐园","latitude":28.008008,"longitude":113.003426,"note":"需要导航至领航学府，也算是小区里面的游乐场了，离市中心还是比较远","url":""},{"locationId":"wdl2026013","name":"浦浦猴乐园","latitude":28.144081,"longitude":112.965627,"note":"需要导航佰昌和江山营销中心，好像需要从售楼部进去。好像停车不是很方便，","url":""},{"locationId":"wdl2026014","name":"八方公园游乐场","latitude":28.236836,"longitude":112.936829,"note":"位于岳麓区八方公园内\r\n公园中心位置有个游乐场","url":"http://dpurl.cn/iiiip3Jz"}]
 		}
 	]
 }
